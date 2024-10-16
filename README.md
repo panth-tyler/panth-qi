@@ -14,6 +14,10 @@ The software now includes the MHIBETA module - **New!**
 
 Download latest version from [Releases](https://github.com/panth-tyler/panth-qi/releases).
 
+## Contributing
+
+If you're interested in contributing code and/or documentation, please see [our guide to contributing](https://github.com/panth-tyler/panth-qi/wiki/Contributing).
+
 ## Documentation
 
 ### AHRQ QI 
@@ -26,8 +30,4 @@ Download latest version from [Releases](https://github.com/panth-tyler/panth-qi/
 * [Getting Started](https://github.com/panth-tyler/panth-qi/wiki/Getting-Started)
 * [Project Structure](https://github.com/panth-tyler/panth-qi/wiki/Project-Structure)
 * [Contributing](https://github.com/panth-tyler/panth-qi/wiki/Contributing)
-
-## Contributing
-
-If you're interested in contributing code and/or documentation, please see [our guide to contributing](https://github.com/panth-tyler/panth-qi/wiki/Contributing).
 
