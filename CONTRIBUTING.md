@@ -1,6 +1,6 @@
 # Contributing to SAS QI  
 
-First off, thank you for taking the time to contribute! ❤️ We welcome contributions to make SAS QI better for everyone. This document explains our contribution process and how you can get involved.
+Thank you for taking the time to contribute! ❤️ We welcome contributions to make SAS QI better for everyone. This document explains our contribution process and how you can get involved.
 
 ---
 
