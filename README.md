@@ -12,9 +12,11 @@ The QI/STAT modules are programs that run in the SAS statistical software packag
 
 The software now includes the MHIBETA module - **New!**
 
+Download latest version from [Releases](https://github.com/panth-tyler/panth-qi/releases).
+
 ## Documentation
 
-For documentation about SAS QI, please visit our [SAQ QI page](https://qualityindicators.ahrq.gov/software/sas_qi) and check this repository's [wiki](./wiki).
+For documentation about SAS QI, please visit our [SAQ QI page](https://qualityindicators.ahrq.gov/software/sas_qi) and check this repository's [wiki](https://github.com/panth-tyler/panth-qi/wiki).
 
 ## Contributing
 
