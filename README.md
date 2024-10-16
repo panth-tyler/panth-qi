@@ -20,5 +20,5 @@ For documentation about SAS QI, please visit our [SAQ QI page](https://qualityin
 
 ## Contributing
 
-If you're interested in contributing code and/or documentation, please see [our guide to contributing](./wiki/contributing).
+If you're interested in contributing code and/or documentation, please see [our guide to contributing](https://github.com/panth-tyler/panth-qi/wiki/Contributing).
 
