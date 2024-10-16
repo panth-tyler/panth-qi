@@ -16,7 +16,16 @@ Download latest version from [Releases](https://github.com/panth-tyler/panth-qi/
 
 ## Documentation
 
-For documentation about SAS QI, please visit our [SAQ QI page](https://qualityindicators.ahrq.gov/software/sas_qi) and check this repository's [wiki](https://github.com/panth-tyler/panth-qi/wiki).
+### AHRQ QI 
+
+* Please visit the [SAQ QI](https://qualityindicators.ahrq.gov/software/sas_qi) page on the Quality Indicators website
+
+### Wiki pages:
+
+* [Introduction](https://github.com/panth-tyler/panth-qi/wiki)
+* [Getting Started](https://github.com/panth-tyler/panth-qi/wiki/Getting-Started)
+* [Project Structure](https://github.com/panth-tyler/panth-qi/wiki/Project-Structure)
+* [Contributing](https://github.com/panth-tyler/panth-qi/wiki/Contributing)
 
 ## Contributing
 
