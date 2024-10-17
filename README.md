@@ -22,9 +22,9 @@ If you're interested in contributing code and/or documentation, please see [our 
 
 ### AHRQ QI 
 
-* Please visit the [SAQ QI](https://qualityindicators.ahrq.gov/software/sas_qi) page on the Quality Indicators website
+* Please visit the [SAQ QI](https://qualityindicators.ahrq.gov/software/sas_qi) page on the Quality Indicators website for Technical Specifications for each indicator, useful videos and additional resource materials.
 
-### Wiki pages:
+### Wiki Pages:
 
 * [Introduction](https://github.com/panth-tyler/panth-qi/wiki)
 * [Getting Started](https://github.com/panth-tyler/panth-qi/wiki/Getting-Started)
