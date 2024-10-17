@@ -10,7 +10,7 @@ To learn more about installation of the SAS QI modules, download the [software i
 
 The QI/STAT modules are programs that run in the SAS statistical software package. To use these modules, users must have access to SAS, which may be purchased from The SAS Institute.
 
-The software now includes the MHIBETA module - **New!**
+The software now includes the MHI BETA module - **New!**
 
 Download latest version from [Releases](https://github.com/panth-tyler/panth-qi/releases).
 
