@@ -16,7 +16,7 @@ Download the latest software version from the [AHRQ QI Website](https://qualityi
 
 ## Contributing
 
-If you're interested in contributing code and/or documentation, please see [our guide to contributing](https://github.com/panth-tyler/panth-qi/wiki/Contributing).
+If you're interested in contributing code and/or documentation, please see [our guide to contributing](https://github.com/panth-tyler/panth-qi/wiki/Contributing-to-AHRQ-SAS-QI-Software).
 
 ## Discussions
 
