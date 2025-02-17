@@ -34,7 +34,7 @@ If you're new to open source, check out the [First Contributions Guide](https://
 
 ## Code of Conduct
 
-This project follows a **Code of Conduct**. Please read our [guidelines](Home.md) before contributing.
+This project follows a **Code of Conduct**. Please read our [guidelines](https://github.com/panth-tyler/panth-qi/wiki) before contributing.
 
 ---
 
