@@ -22,6 +22,8 @@ If you're interested in contributing code and/or documentation, please see [our 
 
 To share ideas for new features, ask the community for help, or share something you've made, use the [Discussions](https://github.com/panth-tyler/panth-qi/discussions) collaborative communication forum.
 
+_Disclaimer: The statements and opinions expressed are solely of the authors and do not represent any official position of the Agency for Healthcare Research & Quality, the Department of Health and Human Services, or the U.S. Government._
+
 ## Documentation
 
 Visit our [repository Wiki](https://github.com/panth-tyler/panth-qi/wiki) for software documentation and additional resources.
